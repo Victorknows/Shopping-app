@@ -1,0 +1,310 @@
+[
+    {
+        "users-info": [
+            {
+                "id": 1,
+                "email": "john@mail.com",
+                "password": "changeme",
+                "name": "Jhon",
+                "role": "customer",
+                "avatar": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?t=st=1705419770~exp=1705420370~hmac=508427de706dccf0f8b89ca687ee4cb000495cb45f9d752ce135e9288621960e",
+                "creationAt": "2024-01-16T00:07:03.000Z",
+                "updatedAt": "2024-01-16T00:07:03.000Z"
+            },
+            {
+                "id": 2,
+                "email": "maria@mail.com",
+                "password": "12345",
+                "name": "Maria",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/DTfowdu.jpg",
+                "creationAt": "2024-01-16T00:07:03.000Z",
+                "updatedAt": "2024-01-16T00:07:03.000Z"
+            },
+            {
+                "id": 3,
+                "email": "admin@mail.com",
+                "password": "admin123",
+                "name": "Admin",
+                "role": "admin",
+                "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+                "creationAt": "2024-01-16T00:07:03.000Z",
+                "updatedAt": "2024-01-16T00:07:03.000Z"
+            },
+            {
+                "id": 4,
+                "email": "fentikurnia18@gmail.com",
+                "password": "gampang1234",
+                "name": "Fenti kurniawati",
+                "role": "customer",
+                "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+                "creationAt": "2024-01-16T02:49:41.000Z",
+                "updatedAt": "2024-01-16T02:49:41.000Z"
+            },
+            {
+                "id": 5,
+                "email": "customerHammad@gmail.com",
+                "password": "123456",
+                "name": "customerHammad@gmail.com",
+                "role": "customer",
+                "avatar": "https://placeimg.com/640/480/any",
+                "creationAt": "2024-01-16T05:46:40.000Z",
+                "updatedAt": "2024-01-16T05:46:40.000Z"
+            },
+            {
+                "id": 6,
+                "email": "adminHammad@gmail.com",
+                "password": "123456",
+                "name": "customerHammad@gmail.com",
+                "role": "admin",
+                "avatar": "https://placeimg.com/640/480/any",
+                "creationAt": "2024-01-16T05:55:27.000Z",
+                "updatedAt": "2024-01-16T05:55:27.000Z"
+            },
+            {
+                "id": 7,
+                "email": "aaa@aaa.com",
+                "password": "12345",
+                "name": "aaa",
+                "role": "customer",
+                "avatar": "https://avatars.mds.yandex.net/i?id=2f942270d036dd442f20f4d10aa75042291363c3-11005614-images-thumbs&n=13",
+                "creationAt": "2024-01-16T05:59:22.000Z",
+                "updatedAt": "2024-01-16T05:59:22.000Z"
+            },
+            {
+                "id": 8,
+                "email": "asd@sdfdf.dfdf",
+                "password": "12345",
+                "name": "sdsd",
+                "role": "customer",
+                "avatar": "https://avatars.mds.yandex.net/i?id=2f942270d036dd442f20f4d10aa75042291363c3-11005614-images-thumbs&n=13",
+                "creationAt": "2024-01-16T06:02:42.000Z",
+                "updatedAt": "2024-01-16T06:02:42.000Z"
+            },
+            {
+                "id": 9,
+                "email": "sdfdf@sdf.gfh",
+                "password": "12345",
+                "name": "sdsd",
+                "role": "customer",
+                "avatar": "https://avatars.mds.yandex.net/i?id=2f942270d036dd442f20f4d10aa75042291363c3-11005614-images-thumbs&n=13",
+                "creationAt": "2024-01-16T06:04:58.000Z",
+                "updatedAt": "2024-01-16T06:04:58.000Z"
+            },
+            {
+                "id": 10,
+                "email": "nico@gmail.com",
+                "password": "1234",
+                "name": "NIcolas",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T06:09:57.000Z",
+                "updatedAt": "2024-01-16T06:09:57.000Z"
+            },
+            {
+                "id": 15,
+                "email": "Jakyp@gmail.com",
+                "password": "223344",
+                "name": "Jakyp",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/5mPmJYO.jpeg",
+                "creationAt": "2024-01-16T06:36:24.000Z",
+                "updatedAt": "2024-01-16T06:36:24.000Z"
+            },
+            {
+                "id": 16,
+                "email": "Jumagulov@gmail.com",
+                "password": "65655665",
+                "name": "Jakyp",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/5mPmJYO.jpeg",
+                "creationAt": "2024-01-16T06:37:07.000Z",
+                "updatedAt": "2024-01-16T06:37:07.000Z"
+            },
+            {
+                "id": 17,
+                "email": "bhuwaneshwar.raikwar+bjraik3@we360.ai",
+                "password": "1234456",
+                "name": "bharat",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T06:43:18.000Z",
+                "updatedAt": "2024-01-16T06:43:18.000Z"
+            },
+            {
+                "id": 18,
+                "email": "bhuwaneshwar.raikwar+bjraik4@we360.ai",
+                "password": "123456",
+                "name": "bjraik",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T06:45:56.000Z",
+                "updatedAt": "2024-01-16T06:45:56.000Z"
+            },
+            {
+                "id": 19,
+                "email": "Jumagulov@gmail.com",
+                "password": "65655665",
+                "name": "Jakyp",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/5mPmJYO.jpeg",
+                "creationAt": "2024-01-16T06:45:56.000Z",
+                "updatedAt": "2024-01-16T06:45:56.000Z"
+            },
+            {
+                "id": 20,
+                "email": "rajraik@gmail.com",
+                "password": "123456",
+                "name": "raj",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T06:52:39.000Z",
+                "updatedAt": "2024-01-16T06:52:39.000Z"
+            },
+            {
+                "id": 21,
+                "email": "jakyp00@gmail.com",
+                "password": "3344343",
+                "name": "Jakyp",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/5mPmJYO.jpeg",
+                "creationAt": "2024-01-16T08:15:28.000Z",
+                "updatedAt": "2024-01-16T08:15:28.000Z"
+            },
+            {
+                "id": 22,
+                "email": "jakyp00@gmail.com",
+                "password": "3344343",
+                "name": "Jakyp",
+                "role": "customer",
+                "avatar": "https://i.imgur.com/5mPmJYO.jpeg",
+                "creationAt": "2024-01-16T08:15:28.000Z",
+                "updatedAt": "2024-01-16T08:15:28.000Z"
+            },
+            {
+                "id": 23,
+                "email": "nico@gmail.com",
+                "password": "1234",
+                "name": "Nicolas",
+                "role": "customer",
+                "avatar": "https://api.lorem.space/image/face?w=640&h=480&g=867",
+                "creationAt": "2024-01-16T08:53:12.000Z",
+                "updatedAt": "2024-01-16T08:53:12.000Z"
+            },
+            {
+                "id": 24,
+                "email": "Jatin@gmail.com",
+                "password": "1234",
+                "name": "Jatin",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T09:11:42.000Z",
+                "updatedAt": "2024-01-16T09:11:42.000Z"
+            },
+            {
+                "id": 25,
+                "email": "nico@gmail.com",
+                "password": "1234",
+                "name": "Nicolas",
+                "role": "customer",
+                "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+                "creationAt": "2024-01-16T09:42:29.000Z",
+                "updatedAt": "2024-01-16T09:42:29.000Z"
+            },
+            {
+                "id": 26,
+                "email": "test@test.com",
+                "password": "1234",
+                "name": "Nicolas",
+                "role": "customer",
+                "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+                "creationAt": "2024-01-16T09:42:52.000Z",
+                "updatedAt": "2024-01-16T09:42:52.000Z"
+            },
+            {
+                "id": 27,
+                "email": "lorenzo@gmail.com",
+                "password": "123456",
+                "name": "lorenzo",
+                "role": "customer",
+                "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+                "creationAt": "2024-01-16T09:50:07.000Z",
+                "updatedAt": "2024-01-16T09:50:07.000Z"
+            },
+            {
+                "id": 28,
+                "email": "john_ddd@mail.com",
+                "password": "123456",
+                "name": "Jhon-ddd",
+                "role": "customer",
+                "avatar": "https://picsum.photos/800",
+                "creationAt": "2024-01-16T10:22:07.000Z",
+                "updatedAt": "2024-01-16T10:22:33.000Z"
+            },
+            {
+                "id": 29,
+                "email": "peterpan@10minutenmail.xyz",
+                "password": "1233",
+                "name": "peter pan",
+                "role": "customer",
+                "avatar": "https://cdn-icons-png.flaticon.com/512/3177/3177440.png",
+                "creationAt": "2024-01-16T10:28:05.000Z",
+                "updatedAt": "2024-01-16T10:28:05.000Z"
+            }
+        ],
+        "clothes": [
+            {
+                "id": 30,
+                "name": "Cargo Shorts",
+                "Price": "30$",
+                "Tax": "$1",
+                "image": "https://assets.adidas.com/images/w_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d76d6cd751e1411ab55a68e1026898c3_9366/Cargo_Shorts_Beige_IP3065_01_laydown.jpg",
+                "Size": "40-48"
+            },
+            {
+                "id": 31,
+                "name": "Flower shirt",
+                "Price": "$50",
+                "Tax": "$1",
+                "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/874417/1.jpg?2733",
+                "Size": "20-30"
+            },
+            {
+                "id": 32,
+                "name": "Skirt",
+                "Price": "$20",
+                "Tax": "$0.50",
+                "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/631353/1.jpg?7945",
+                "Size": "All Available"
+            },
+            {
+                "id": 33,
+                "name": "Puffer jacket",
+                "Price": "$30",
+                "Tax": "$0",
+                "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/307127/1.jpg?9266",
+                "Size": "10-20"
+            },
+            {
+                "id": 33,
+                "name": "Linen suit",
+                "Price": "$200",
+                "Tax": "$2",
+                "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/1999421/1.jpg?5501",
+                "Size": "Tailor made"
+            }
+        ],
+        "feedback": [
+            {
+                "Name": "Victor",
+                "email": "victor7@yahoo.com",
+                "feedback": "Add a sellers page"
+            },
+            {
+                "Name": "Joan",
+                "email": "joan17@yahoo.com",
+                "feedback": "The website is very slows"
+            }
+        ]
+    }
+]

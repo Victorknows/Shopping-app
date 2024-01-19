@@ -305,6 +305,32 @@
                 "email": "joan17@yahoo.com",
                 "feedback": "The website is very slows"
             }
+        ],
+        "food": [
+            {
+                "id": 34,
+                "name": "Burger",
+                "image": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+                "price": 600
+            },
+            {
+                "id": 35,
+                "name": "Mushrooms",
+                "image":"https://drivemehungry.com/wp-content/uploads/2020/10/sauteed-mushrooms-6.jpg",
+                "price": 1000
+            },
+            {
+                "id": 35,
+                "name": "Sushi",
+                "image": "https://www.themidwestkitchenblog.com/wp-content/uploads/2022/08/ultimate-sushi-recipe-scaled.jpg",
+                "price": 600
+            },
+            {
+                "id": 36,
+                "name": "Pasta",
+                "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/05/red-sauce-pasta-recipe.jpg",
+                "price": 600
+            }
         ]
     }
 ]
